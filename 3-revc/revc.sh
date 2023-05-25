@@ -1,0 +1,1 @@
+cat rosalind_revc.txt | tr 'ACGT' 'TGCA' | rev

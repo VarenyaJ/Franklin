@@ -1,0 +1,1 @@
+rev rosalind_revc.txt | sed 'y/ATCG/TAGC/'
